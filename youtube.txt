@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=oXAzk7LTpcg 	//git+bitbucket
+https://www.youtube.com/watch?v=iDcBktjQ_oQ	//docker
